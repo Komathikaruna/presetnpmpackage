@@ -1,0 +1,16 @@
+{
+  "name": "lakks_checklist",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "moment": "^2.24.0",
+    "vue-cookie": "^1.1.4",
+    "vue-i18n": "^8.13.0"
+  }
+}
